@@ -9,7 +9,7 @@
 // const DIAS_SEMANA = ['Lunes', 'Martes', 'Miércoles', 'Jueves', 'Viernes', 'Sábado', 'Domingo'];
 const DIAS_SEMANA = array('Lunes', 'Martes', 'Miércoles', 'Jueves', 'Viernes', 'Sábado', 'Domingo');
 
-echo join('<br>',DIAS_SEMANA);
+echo join('<br>', DIAS_SEMANA);
 
 
 

@@ -26,13 +26,13 @@ echo "<br>var_dump():<br>";
 var_dump($boolean);
 var_dump(true);
 
-echo "<pre>",var_dump(MESES),"<pre>";
+echo "<pre>", var_dump(MESES), "<pre>";
 
 echo "<br>print_r():<br>";
 print_r($boolean);
 print_r(true);
 
-echo "<pre>",print_r(MESES),"<pre>";
+echo "<pre>", print_r(MESES), "<pre>";
 
 
 // Coge el array de meses creado en el ejercicio anterior y mira las diferencias de cómo se muestra con ambas funciones

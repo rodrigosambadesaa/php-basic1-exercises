@@ -16,4 +16,4 @@ const LISTADO = [
 
 //muestra con count() el número de amigos que tiene tu listado
 
-echo "Sólo tengo ",count(LISTADO)," amigos y mi mejor amigo es ",LISTADO[0]['nombre'];
+echo "Sólo tengo ", count(LISTADO), " amigos y mi mejor amigo es ", LISTADO[0]['nombre'];

@@ -15,4 +15,4 @@ $miPerro['nombre'] = 'Lasy';
 
 print('Mi perro se llama ' . $miPerro['nombre']);
 
-echo '<br>','Todos los datos:',join(', ',$miPerro);
+echo '<br>', 'Todos los datos:', join(', ', $miPerro);
